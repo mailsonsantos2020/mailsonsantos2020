@@ -1,6 +1,7 @@
 <img src="https://github.com/mailsonsantos2020/mailsonsantos2020/blob/master/Mailson-1.png">
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mailson-melo-dos-santos-81928a30/">](https://www.linkedin.com/in/mailson-melo-dos-santos-81928a30/)  [<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailson.melo.santos@gmail.com">](mailto:mailson.melo.santos@gmail.com) [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](xhttps://pr2tik1.github.io/)
+[<img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+82+999258688&text=Hello!">](https://api.whatsapp.com/send?phone=55+82+999258688&text=Hello!)
 
 ### Olá 👋 
 Eu sou Mailson! Estou buscando oportunidades em projetos relacionados à ciência de dados e aprendizado de máquina.
