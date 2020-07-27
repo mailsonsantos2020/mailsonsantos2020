@@ -16,9 +16,7 @@ Eu sou Mailson! Estou buscando oportunidades em projetos relacionados à ciênci
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=mailsonsantos2020&show_icons=true&theme=radical&line_height=27">
-<!---
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=CSS,HTML&theme=tokyonight">
--->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=CSS,HTML&theme=tokyonight&line_height=27">
 </p>
 
 <p align="center">
